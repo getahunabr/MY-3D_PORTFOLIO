@@ -3,18 +3,18 @@ const navLinks = [
     name: "Work",
     link: "#work",
   },
-  {
-    name: "Experience",
-    link: "#experience",
-  },
+  // {
+  //   name: "Experience",
+  //   link: "#experience",
+  // },
   {
     name: "Skills",
     link: "#skills",
   },
-  {
-    name: "Testimonials",
-    link: "#testimonials",
-  },
+  // {
+  //   name: "Testimonials",
+  //   link: "#testimonials",
+  // },
 ];
 
 const words = [
